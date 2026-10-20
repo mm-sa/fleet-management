@@ -1,0 +1,5 @@
+networks:
+  fms-backend:
+    driver: bridge
+  fms-vehicle:
+    driver: bridge
